@@ -19,3 +19,10 @@ events in advance.
 In this project, I will import a dataset containing flights information for a major U.S. airline, and load 
 the dataset into the notebook. Then, I will clean the dataset with Pandas, use Logistic regression 
 method, and build a machine-learning model with scikit-learn.
+
+
+
+I aimed to use machine learning and data mining techniques to predict flight cancellations. I collected data on various factors that may influence flight cancellations, such as weather conditions, airline, and departure location.Then preprocessed the data and applied various algorithms to train and test models that could predict flight cancellations with a high degree of accuracy.
+The results of our analysis showed that certain algorithms, such as Logistic Regression and Random Forest, performed better than others in predicting flight cancellations. I also found that certain factors, such as the airline and departure location, had a stronger impact on flight cancellations than others.
+In conclusion, this project demonstrates the potential of machine learning and data mining techniques in predicting flight cancellations.  However, it is important to note that there are many other factors that can influence flight cancellations, and this project only explored a subset of them. Further research is needed to continue to improve the accuracy of flight cancellation predictions and to incorporate additional factors into the analysis.
+
